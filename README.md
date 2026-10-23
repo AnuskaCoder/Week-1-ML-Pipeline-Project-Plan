@@ -99,7 +99,7 @@ These risks will be addressed through data-quality checks, appropriate validatio
 5. [IBM Telco Customer Churn Sample](https://www.ibm.com/docs/en/cognos-analytics/11.1.0?topic=samples-telco-customer-churn)
 
 ## Author
-**Name:** Your Name
+**Name:** Anuska Dhar
 
 **Course:** Machine Learning / AI Project
 
